@@ -20,15 +20,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://discordbots.org/bot/275270122082533378">
-        <img src="https://discordbots.org/api/widget/servers/275270122082533378.svg?noavatar=true" alt="AvaIre">
-    </a>
-    <a href="https://discordbots.org/bot/275270122082533378">
-        <img src="https://discordbots.org/api/widget/upvotes/275270122082533378.svg?noavatar=true" alt="AvaIre">
-    </a>
-</p>
-
 ## About AvaIre
 
 AvaIre is a multipurpose Discord bot made for fun, written in Java, using the [JDA](https://github.com/DV8FromTheWorld/JDA) library.
@@ -44,6 +35,10 @@ The AvaIre project has become stagnant over the years as I've lost interest in m
 ## So... What now?
 
 A new team of devs decided on their own to recreate the bot, using all the necessary intents, etc., to honor the legacy that this amazing bot has. Our focus is to keep a copy for the community, and release new updates, etc. We hope you like our project!
+
+# Our goals 
+
+Our team will remake the Bot in Kotlin language, using the [JDA](https://github.com/DV8FromTheWorld/JDA) lib. We will make the bot following all allowed intents, and using slash commands.
 
 ## Main features
 
